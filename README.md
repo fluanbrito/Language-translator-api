@@ -32,7 +32,7 @@ Abra o arquivo "Index.html" em um navegador e teste as funções.
 
 ## ✅ Resultado (Preview)
 
-### **Game**
+### **Tradutor**
 <img src="img/translate.gif">
 
 <br>
